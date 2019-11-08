@@ -5,3 +5,5 @@ The purpose of this project is to familiarize myself with opening URL sessions a
 ### Prerequisites
 
 XCode 10
+
+Updated API key from https://www.worldweatheronline.com/developer/
