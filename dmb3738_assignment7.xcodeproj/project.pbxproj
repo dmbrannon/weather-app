@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		950B130E236FAB600006AC84 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950B130D236FAB600006AC84 /* WeatherData.swift */; };
 		95777CF9236F8C5500F19444 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95777CF8236F8C5500F19444 /* AppDelegate.swift */; };
 		95777CFB236F8C5500F19444 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95777CFA236F8C5500F19444 /* ViewController.swift */; };
 		95777CFE236F8C5500F19444 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95777CFC236F8C5500F19444 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		950B130D236FAB600006AC84 /* WeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
 		95777CF5236F8C5500F19444 /* dmb3738_assignment7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dmb3738_assignment7.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95777CF8236F8C5500F19444 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		95777CFA236F8C5500F19444 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				95777CF8236F8C5500F19444 /* AppDelegate.swift */,
 				95777CFA236F8C5500F19444 /* ViewController.swift */,
 				95777CFC236F8C5500F19444 /* Main.storyboard */,
+				950B130D236FAB600006AC84 /* WeatherData.swift */,
 				95777CFF236F8C5900F19444 /* Assets.xcassets */,
 				95777D01236F8C5900F19444 /* LaunchScreen.storyboard */,
 				95777D04236F8C5900F19444 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95777CFB236F8C5500F19444 /* ViewController.swift in Sources */,
+				950B130E236FAB600006AC84 /* WeatherData.swift in Sources */,
 				95777CF9236F8C5500F19444 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
